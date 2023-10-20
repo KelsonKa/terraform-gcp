@@ -1,0 +1,4 @@
+/.txt *
+Credentials/
+.terraform *
+.tfstate *
